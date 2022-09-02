@@ -1,1 +1,3 @@
 # house-price-prediction-kaggle-competition
+
+The last lab of our Machine Learning course in Master1 consisted in a [kaggle competition](https://www.kaggle.com/competitions/project-2022-mpc-m1/overview) with the goal of predicting the price of houses as well as possible. We were instructed to use different techniques seen in class to see how effective they were for this problem. With my classmate [Alloua Choullit](https://www.linkedin.com/in/allaoua-choullit-5a970b162/), we ended up training a neural network, which allowed us to improve the results of our predictions and to place us in the best teams with a rank of 2/35.
